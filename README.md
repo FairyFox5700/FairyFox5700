@@ -1,14 +1,23 @@
-# Iryna Tyshchenko
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Iryna Tyshchenko — Senior Backend and Agentic Systems Engineer" width="100%" />
+</p>
 
-**Senior Backend & Agentic Systems Engineer** · C#/.NET · Azure · AI agents · Distributed systems
+<h1 align="center">Iryna Tyshchenko</h1>
+
+<p align="center">
+  <strong>Senior Backend &amp; Agentic Systems Engineer</strong><br/>
+  C#/.NET · Azure · AI agents · Distributed systems
+</p>
 
 I build production-shaped AI systems where reliability, evidence, and human control are part of the architecture—not an afterthought. My work spans backend platforms, agent workflows, retrieval and evaluation systems, and the cloud infrastructure needed to run them safely.
 
 Based in Dublin, Ireland. Currently focused on Forward Deployed Engineering: turning ambiguous business problems into working, testable systems and a credible path to production.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Iryna_Tyshchenko-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iryna-tyshchenko-7616b9214)
-[![Medium](https://img.shields.io/badge/Medium-@tyschenk20-000000?logo=medium&logoColor=white)](https://medium.com/@tyschenk20)
-[![Email](https://img.shields.io/badge/Email-Contact_me-EA4335?logo=gmail&logoColor=white)](mailto:tyschenk40@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/iryna-tyshchenko-7616b9214"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-Iryna_Tyshchenko-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Iryna on LinkedIn" /></a>
+  <a href="https://medium.com/@tyschenk20"><img src="https://img.shields.io/badge/Read_on_Medium-@tyschenk20-171717?style=for-the-badge&logo=medium&logoColor=white" alt="Read Iryna on Medium" /></a>
+  <a href="mailto:tyschenk40@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Iryna" /></a>
+</p>
 
 ## What I optimize for
 
@@ -30,6 +39,19 @@ Based in Dublin, Ireland. Currently focused on Forward Deployed Engineering: tur
 
 ## Architecture toolkit
 
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C sharp" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
+
 ```text
 Backend       C# / .NET · Python / FastAPI · REST APIs · event-driven systems
 Agentic AI    tool contracts · orchestration · RAG · evals · guardrails · HITL
@@ -46,6 +68,14 @@ Frontend      TypeScript · React · accessible, inspectable engineering demos
 3. **Evals are part of the system.** Critical policies need hard gates; semantic judges should supplement them, not replace them.
 4. **Demos should tell the truth.** Offline fixtures, live integrations, and production assumptions are labelled explicitly.
 5. **Architecture should support graceful degradation.** Failure modes, retries, rollback, privacy, and telemetry are designed up front.
+
+## Problem-solving practice
+
+<p align="center">
+  <a href="https://www.leetcode.com/fairyfox5700">
+    <img src="https://leetcard.jacoblin.cool/FairyFox5700?theme=nord&font=Inter&ext=heatmap" alt="Iryna Tyshchenko's LeetCode statistics and activity" width="100%" />
+  </a>
+</p>
 
 ## Current direction
 

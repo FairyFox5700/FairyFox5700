@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Iryna Tyshchenko — Senior Backend and Agentic Systems Engineer</title>
+  <desc id="desc">A dark technical banner connecting grounded AI, evaluation, guardrails, and Azure delivery.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.58" stop-color="#111827"/>
+      <stop offset="1" stop-color="#172554"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="0.52" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#c084fc"/>
+    </linearGradient>
+
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#94a3b8" stroke-opacity=".07"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="23" fill="none" stroke="#334155"/>
+  <circle cx="1060" cy="40" r="180" fill="#2563eb" opacity=".08"/>
+  <circle cx="1150" cy="315" r="145" fill="#9333ea" opacity=".07"/>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="70" y="105" fill="#94a3b8" font-size="19" font-weight="600" letter-spacing="3">BUILDING RELIABLE AI SYSTEMS</text>
+    <text x="70" y="162" fill="#f8fafc" font-size="46" font-weight="750">Iryna Tyshchenko</text>
+    <rect x="70" y="183" width="440" height="4" rx="2" fill="url(#accent)"/>
+    <text x="70" y="228" fill="#cbd5e1" font-size="25" font-weight="500">Senior Backend &amp; Agentic Systems Engineer</text>
+    <text x="70" y="272" fill="#7dd3fc" font-size="18">C# / .NET</text>
+    <text x="190" y="272" fill="#64748b" font-size="18">•</text>
+    <text x="216" y="272" fill="#a5b4fc" font-size="18">Azure</text>
+    <text x="292" y="272" fill="#64748b" font-size="18">•</text>
+    <text x="318" y="272" fill="#c4b5fd" font-size="18">AI Agents</text>
+    <text x="425" y="272" fill="#64748b" font-size="18">•</text>
+    <text x="451" y="272" fill="#e9d5ff" font-size="18">Distributed Systems</text>
+  </g>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">
+    <path d="M760 180H845M930 180H1000M887 137V104M887 223V256" fill="none" stroke="#64748b" stroke-width="2" stroke-dasharray="5 7"/>
+    <circle cx="887" cy="180" r="50" fill="#172033" stroke="url(#accent)" stroke-width="3"/>
+    <text x="887" y="176" text-anchor="middle" fill="#f8fafc">AGENT</text>
+    <text x="887" y="197" text-anchor="middle" fill="#94a3b8" font-size="13">WORKFLOW</text>
+
+    <rect x="650" y="150" width="110" height="60" rx="16" fill="#0f2133" stroke="#38bdf8" stroke-opacity=".8"/>
+    <text x="705" y="185" text-anchor="middle" fill="#bae6fd">Grounding</text>
+
+    <rect x="1000" y="150" width="120" height="60" rx="16" fill="#1e1b4b" stroke="#818cf8" stroke-opacity=".85"/>
+    <text x="1060" y="185" text-anchor="middle" fill="#c7d2fe">Guardrails</text>
+
+    <rect x="827" y="48" width="120" height="56" rx="16" fill="#21163c" stroke="#a78bfa" stroke-opacity=".85"/>
+    <text x="887" y="82" text-anchor="middle" fill="#ddd6fe">Evaluation</text>
+
+    <rect x="827" y="256" width="120" height="56" rx="16" fill="#172554" stroke="#60a5fa" stroke-opacity=".85"/>
+    <text x="887" y="290" text-anchor="middle" fill="#bfdbfe">Delivery</text>
+
+    <circle cx="760" cy="180" r="5" fill="#38bdf8"/>
+    <circle cx="1000" cy="180" r="5" fill="#818cf8"/>
+    <circle cx="887" cy="104" r="5" fill="#a78bfa"/>
+    <circle cx="887" cy="256" r="5" fill="#60a5fa"/>
+  </g>
+</svg>
