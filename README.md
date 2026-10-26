@@ -1,34 +1,54 @@
-<h1 align="center">Hi 👋, I'm Iryna Tyshchenko</h1>
-<h3 align="center">A passionate backend devloper from Ukraine</h3>
+# Iryna Tyshchenko
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/FairyFox5700?theme=nord&font=Noto%20Sans%20Old%20Sogdian&ext=heatmap)
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=fairyfox5700&show_icons=true&locale=en" alt="fairyfox5700" /></p>
+**Senior Backend & Agentic Systems Engineer** · C#/.NET · Azure · AI agents · Distributed systems
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
+I build production-shaped AI systems where reliability, evidence, and human control are part of the architecture—not an afterthought. My work spans backend platforms, agent workflows, retrieval and evaluation systems, and the cloud infrastructure needed to run them safely.
 
+Based in Dublin, Ireland. Currently focused on Forward Deployed Engineering: turning ambiguous business problems into working, testable systems and a credible path to production.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fairyfox5700&label=Profile%20views&color=0e75b6&style=flat" alt="fairyfox5700" /> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Iryna_Tyshchenko-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iryna-tyshchenko-7616b9214)
+[![Medium](https://img.shields.io/badge/Medium-@tyschenk20-000000?logo=medium&logoColor=white)](https://medium.com/@tyschenk20)
+[![Email](https://img.shields.io/badge/Email-Contact_me-EA4335?logo=gmail&logoColor=white)](mailto:tyschenk40@gmail.com)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fairyfox5700" alt="fairyfox5700" /></a> </p>
+## What I optimize for
 
-- 🌱 I’m currently learning **Kubernetess**
+- **Deterministic safety boundaries** around probabilistic models: typed contracts, allowlisted tools, explicit authority, and human approval.
+- **Grounded outputs** through retrieval, immutable citations, no-evidence behavior, and claim-level validation.
+- **Observable quality** with structured traces, scenario suites, hard-gated evaluations, and reproducible offline paths.
+- **Production evolution** from a local vertical slice to secure Azure deployment, without hiding the gap between demo and production.
 
-- 📫 How to reach me **tyschenk40@gmail.com**
+## Selected systems
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+| Project | Engineering focus | Signals |
+|---|---|---|
+| **[Atlas — Azure Travel Agent](https://github.com/FairyFox5700/atlas-azure-travel-agent)** | Grounded semantic search with typed planning, hybrid retrieval, citations, and a production Azure architecture | React, TypeScript, Azure AI Search, Container Apps, Bicep |
+| **[Sentinel Ops](https://github.com/FairyFox5700/private-enterprise-operations-agent)** | Evidence-grounded incident investigation with read-only tools and a human approval boundary | FastAPI, React, Cohere adapters, 91%+ coverage, security audits |
+| **[Refund Agent Eval Lab](https://github.com/FairyFox5700/refund-agent-eval-lab)** | Deterministic agent evaluation with policy, tool, argument, and safety gates | Python, structured traces, eight regression scenarios |
+| **[Trace RAG](https://github.com/FairyFox5700/trace-rag)** | Inspectable document RAG with exact citations, injection boundaries, and honest no-answer behavior | FastAPI, PDF ingestion, deterministic retrieval |
+| **[LangGraph Research Studio](https://github.com/FairyFox5700/langgraph-research-studio)** | Human-reviewed, multi-agent research with fan-out/fan-in orchestration and validated sources | LangGraph, React, TypeScript, end-to-end tests |
+| **[Copilot Context Engineering Workshop](https://github.com/FairyFox5700/github-copilot-acting-dumb)** | A runnable workshop that turns vague coding requests into scoped, verified agent workflows | GitHub Copilot, React, TypeScript, Playwright · **[Live](https://fairyfox5700.github.io/github-copilot-acting-dumb/)** |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/iryna-tyshchenko-7616b9214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iryna-tyshchenko-7616b9214" height="30" width="40" /></a>
-<a href="https://medium.com/@tyschenk20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tyschenk20" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/fairyfox5700" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fairyfox5700" height="30" width="40" /></a>
-<a href="/https://medium.com/feed/@tyschenk20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/feed/@tyschenk20" height="30" width="40" /></a>
-</p>
+## Architecture toolkit
 
+```text
+Backend       C# / .NET · Python / FastAPI · REST APIs · event-driven systems
+Agentic AI    tool contracts · orchestration · RAG · evals · guardrails · HITL
+Azure         AI Search · Container Apps · OpenAI · Entra ID · Key Vault · Bicep
+Data          PostgreSQL · SQL Server · Redis · Kafka · vector and hybrid search
+Delivery      Docker · Kubernetes · GitHub Actions · OpenTelemetry · testing
+Frontend      TypeScript · React · accessible, inspectable engineering demos
+```
 
+## Engineering principles
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fairyfox5700&" alt="fairyfox5700" /></p>
+1. **The model is not the authorization boundary.** Permissions and state transitions belong in deterministic code.
+2. **Evidence must be inspectable.** A confident answer without resolvable sources is a product defect.
+3. **Evals are part of the system.** Critical policies need hard gates; semantic judges should supplement them, not replace them.
+4. **Demos should tell the truth.** Offline fixtures, live integrations, and production assumptions are labelled explicitly.
+5. **Architecture should support graceful degradation.** Failure modes, retries, rollback, privacy, and telemetry are designed up front.
 
+## Current direction
+
+I am deepening the intersection of **senior backend engineering, Azure architecture, and agentic systems**—especially FDE-style work that combines customer discovery, rapid prototyping, system design, and production hardening.
+
+<sub>Explore the repositories above for architecture notes, runnable demos, verification commands, security boundaries, and explicit production paths.</sub>
